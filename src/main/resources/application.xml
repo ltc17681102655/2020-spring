@@ -8,4 +8,7 @@
         <property name="name" value="ioc"></property>
     </bean>
 
+    <bean id="myBean" class="com.spring.ioc.factoryBean.MyBean">
+    </bean>
+
 </beans>
